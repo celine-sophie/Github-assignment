@@ -16,7 +16,7 @@
 
 
   Q2.md ( Difference between arrays and Linked lists)
-
+  
   1. Memory allocation
      Arrays
       Arrays use contiguous memory allocation, meaning elements are stored in adjacent memory allocations
